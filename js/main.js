@@ -6,7 +6,7 @@ $('#2015').on('click', function(){
         {
             scrollTop: images
         },
-        900
+        1200
     );
 });
 
@@ -17,7 +17,7 @@ $('#2017').on('click', function () {
         {
             scrollTop: images
         },
-        900
+        1200
     );
 });
 
@@ -28,7 +28,7 @@ $("#2018").on("click", function() {
     {
       scrollTop: images
     },
-    900
+    1200
   );
 });
 

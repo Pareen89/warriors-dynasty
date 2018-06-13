@@ -54,7 +54,7 @@ main{
 
 }
 #landing-image{
-    background: url(http://paperlief.com/images/golden-state-warriors-logo-2014-wallpaper-3.jpg);
+    background: url(../img/main.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
